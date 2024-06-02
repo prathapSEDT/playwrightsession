@@ -1,0 +1,15 @@
+{
+    "username": {
+        "locatortype": "getByPlaceHolder",
+        "locatorvalue": "Username"
+    },
+    "password": {
+        "locatortype": "getByPlaceHolder",
+        "locatorvalue": "Password",
+        "roletype": ""
+    },
+    "login": {
+        "locatortype": "xpath",
+        "locatorvalue": "//button[@type='submit']"
+    }
+}
